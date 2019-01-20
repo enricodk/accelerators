@@ -45,13 +45,13 @@
 | [Rocker Seeder](https://www.rocketseeder.com/)                                                          | VIC   | Melbourne      |                   |                   |            |
 | [Techstars](https://www.techstars.com/programs/adelaide-program/)                                       | SA    | Adelaide       |                   |                   |            |
 | [CSIRO ON](http://www.oninnovation.com.au/)                                                             |       |                |                   |                   |            |
-| [EnergyLab](https://energylab.org.au/)                                                                  | NSW   | Sydney         |                   |                   |            |
-| [EnergyLab](https://energylab.org.au/)                                                                  | NSW   | Lismore        |                   |                   |            |
-| [EnergyLab](https://energylab.org.au/)                                                                  | VIC   | Melbourne      |                   |                   |            |
-| [EnergyLab](https://energylab.org.au/)                                                                  | SA    | Adelaide       |                   |                   |            |
-| [EnergyLab](https://energylab.org.au/)                                                                  | TAS   | Hobart         |                   |                   |            |
-| [EnergyLab](https://energylab.org.au/)                                                                  | QLD   | Brisbane       |                   |                   |            |
-| [EnergyLab](https://energylab.org.au/)                                                                  | ACT   | Canberra       |                   |                   |            |
+| [EnergyLab](https://energylab.org.au/)                                                                  | NSW   | Sydney         |                   | 2019-02-03        | $50,000    |
+| [EnergyLab](https://energylab.org.au/)                                                                  | NSW   | Lismore        |                   |                   | $50,000    |
+| [EnergyLab](https://energylab.org.au/)                                                                  | VIC   | Melbourne      |                   |                   | $50,000    |
+| [EnergyLab](https://energylab.org.au/)                                                                  | SA    | Adelaide       |                   |                   | $50,000    |
+| [EnergyLab](https://energylab.org.au/)                                                                  | TAS   | Hobart         |                   |                   | $50,000    |
+| [EnergyLab](https://energylab.org.au/)                                                                  | QLD   | Brisbane       |                   |                   | $50,000    |
+| [EnergyLab](https://energylab.org.au/)                                                                  | ACT   | Canberra       |                   |                   | $50,000    |
 | [Runway](https://runwayhq.co/)                                                                          | VIC   | Geelong        |                   |                   |            |
 | [Unearthed](https://unearthed.solutions/accelerator/)                                                   | SA    | Perth          |                   |                   |            |
 | [Heads Over Heels](http://headsoverheels.com.au/)                                                       | NSW   | Sydney         |                   |                   |            |
