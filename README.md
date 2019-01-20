@@ -22,7 +22,6 @@
 | [Muru-D](https://muru-d.com/location/brisbane/)                                                         | QLD   | Brisbane       | 2019-04           |                   |            |
 | [Plus Eight/Muru-D](https://pluseight.spacecubed.com/accelerator)                                       | WA    | Perth          | 2018-11           | 2019-01-28        |            |
 | [ATP Innovations](http://atp-innovations.com.au/)                                                       | NSW   | Sydney         |                   |                   |            |
-| [Angel Cube Melb](http://www.angelcube.com/)                                                            | VIC   | Melbourne      |                   |                   |            |
 | [Small Technologies Cluster (STC)](http://www.stcaustralia.org/)                                        | VIC   | Melbourne      |                   |                   |            |
 | [Mktplace Ventures](http://www.mktplaceventures.com/)                                                   | VIC   | Melbourne      |                   |                   |            |
 | [iLab](http://www.ilab.com.au/)                                                                         | QLD   | Brisbane       |                   |                   |            |
