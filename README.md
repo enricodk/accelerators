@@ -57,6 +57,7 @@
 | [Heads Over Heels](http://headsoverheels.com.au/)                                                       | NSW   | Sydney         |                   |                   |            |
 | [Remarkable](https://remarkable.org.au/accelerator/)                                                    | NSW   | Sydney         |                   |                   |            |
 | [Cyrise](https://www.cyrise.co)                                                                         | VIC   | Melbourne      |                   |                   |            |
+| [RISE Accelerator](https://riseaccelerator.gateway.kpmg.com.au/)                                        | WA    | Perth          |                   | 2019-01-31        |            |            
 | [Startupbootcamp](https://www.startupbootcamp.org/)                                                     | VIC   | Melbourne      |                   |                   |            |
 | [Darwin Innovation Hub](https://darwininnovationhub.com.au/)                                            | NT    | Darwin         |                   |                   |            |
 | [SparkLabs Cultiv8](https://www.sparklabscultiv8.com/)                                                  | NSW   | Orange         |                   |                   |            |
