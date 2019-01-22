@@ -5,10 +5,17 @@
 
 | Name                                                                                                    | State | City           | Applications Open | Applications Close| Investment |
 | ---                                                                                                     | ---   | ---            | ---               | ---               | ---        |
-| [Startmate](https://startmate.com.au/program)                                                           | NSW   | Sydney         |                   |                   | $75,000    |
-| [Startmate](https://startmate.com.au/program)                                                           | VIC   | Melbourne      |                   | 2019-06-05        | $75,000    |
-| [Excelinc](http://www.excelinc.com.au/)                                                                 | NSW   | Sydney         | 2018-08           |                   | $20,000    |
+| [Plus Eight/Muru-D](https://pluseight.spacecubed.com/accelerator)                                       | WA    | Perth          | 2018-11           | 2019-01-28        |            |
+| [RISE Accelerator](https://riseaccelerator.gateway.kpmg.com.au/)                                        | WA    | Perth          |                   | 2019-01-31        |            |            
+| [EnergyLab](https://energylab.org.au/)                                                                  | NSW   | Sydney         |                   | 2019-02-03        | $50,000    |
+| [Startupbootcamp Fintech](https://www.startupbootcamp.org/accelerator/fintech-melbourne/)               | VIC   | Melbourne      |                   | 2019-02-03        | $25,000    |
 | [Founder Institute](http://fi.co/)                                                                      | NSW   | Sydney         |                   | 2019-02-10        |            |
+| [Muru-D](https://muru-d.com/location/brisbane/)                                                         | QLD   | Brisbane       | 2019-04           |                   |            |
+| [Muru-D](https://muru-d.com/location/melbourne/)                                                        | VIC   | Melbourne      | 2019-05           |                   |            |
+| [Startmate](https://startmate.com.au/program)                                                           | VIC   | Melbourne      |                   | 2019-06-05        | $75,000    |
+| [Muru-D](https://muru-d.com/location/sydney/)                                                           | NSW   | Sydney         | 2019-10           |                   |            |
+| [Startmate](https://startmate.com.au/program)                                                           | NSW   | Sydney         |                   |                   | $75,000    |
+| [Excelinc](http://www.excelinc.com.au/)                                                                 | NSW   | Sydney         | 2018-08           |                   | $20,000    |
 | [Founder Institute](http://fi.co/)                                                                      | VIC   | Melbourne      |                   |                   |            |
 | [Founder Institute](http://fi.co/)                                                                      | WA    | Perth          |                   |                   |            |
 | [Pollenizer](http://www.pollenizer.com/)                                                                | NSW   | Sydney         |                   |                   |            |
@@ -17,10 +24,6 @@
 | [BlueChilli](http://www.bluechilli.com/)                                                                | NSW   | Sydney         |                   |                   |            |
 | [BlueChilli](http://www.bluechilli.com/)                                                                | VIC   | Melbourne      |                   |                   |            |
 | [Creative Industries Innovation Centre (CIIC)](https://www.innovyz.com)                                 | SA    | Adelaide       |                   | 2018-08-31        |            |
-| [Muru-D](https://muru-d.com/location/sydney/)                                                           | NSW   | Sydney         | 2019-10           |                   |            |
-| [Muru-D](https://muru-d.com/location/melbourne/)                                                        | VIC   | Melbourne      | 2019-05           |                   |            |
-| [Muru-D](https://muru-d.com/location/brisbane/)                                                         | QLD   | Brisbane       | 2019-04           |                   |            |
-| [Plus Eight/Muru-D](https://pluseight.spacecubed.com/accelerator)                                       | WA    | Perth          | 2018-11           | 2019-01-28        |            |
 | [ATP Innovations](http://atp-innovations.com.au/)                                                       | NSW   | Sydney         |                   |                   |            |
 | [Small Technologies Cluster (STC)](http://www.stcaustralia.org/)                                        | VIC   | Melbourne      |                   |                   |            |
 | [Mktplace Ventures](http://www.mktplaceventures.com/)                                                   | VIC   | Melbourne      |                   |                   |            |
@@ -45,7 +48,6 @@
 | [Rocker Seeder](https://www.rocketseeder.com/)                                                          | VIC   | Melbourne      |                   |                   |            |
 | [Techstars](https://www.techstars.com/programs/adelaide-program/)                                       | SA    | Adelaide       |                   |                   |            |
 | [CSIRO ON](http://www.oninnovation.com.au/)                                                             |       |                |                   |                   |            |
-| [EnergyLab](https://energylab.org.au/)                                                                  | NSW   | Sydney         |                   | 2019-02-03        | $50,000    |
 | [EnergyLab](https://energylab.org.au/)                                                                  | NSW   | Lismore        |                   |                   | $50,000    |
 | [EnergyLab](https://energylab.org.au/)                                                                  | VIC   | Melbourne      |                   |                   | $50,000    |
 | [EnergyLab](https://energylab.org.au/)                                                                  | SA    | Adelaide       |                   |                   | $50,000    |
@@ -57,7 +59,6 @@
 | [Heads Over Heels](http://headsoverheels.com.au/)                                                       | NSW   | Sydney         |                   |                   |            |
 | [Remarkable](https://remarkable.org.au/accelerator/)                                                    | NSW   | Sydney         |                   |                   |            |
 | [Cyrise](https://www.cyrise.co)                                                                         | VIC   | Melbourne      |                   |                   |            |
-| [RISE Accelerator](https://riseaccelerator.gateway.kpmg.com.au/)                                        | WA    | Perth          |                   | 2019-01-31        |            |            
 | [Startupbootcamp](https://www.startupbootcamp.org/)                                                     | VIC   | Melbourne      |                   |                   |            |
 | [Darwin Innovation Hub](https://darwininnovationhub.com.au/)                                            | NT    | Darwin         |                   |                   |            |
 | [SparkLabs Cultiv8](https://www.sparklabscultiv8.com/)                                                  | NSW   | Orange         |                   |                   |            |
