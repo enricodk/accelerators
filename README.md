@@ -8,6 +8,8 @@
 | [Plus Eight/Muru-D](https://pluseight.spacecubed.com/accelerator)                                       | WA    | Perth          | 2018-11           | 2019-01-28        |            |
 | [RISE Accelerator](https://riseaccelerator.gateway.kpmg.com.au/)                                        | WA    | Perth          |                   | 2019-01-31        |            |            
 | [EnergyLab](https://energylab.org.au/)                                                                  | NSW   | Sydney         |                   | 2019-02-03        | $50,000    |
+| [EnergyLab](https://energylab.org.au/)                                                                  | VIC   | Melbourne      |                   | 2019-02-03        | $50,000    |
+| [EnergyLab](https://energylab.org.au/)                                                                  | QLD   | Brisbane       |                   | 2019-02-03        | $50,000    |
 | [Startupbootcamp Fintech](https://www.startupbootcamp.org/accelerator/fintech-melbourne/)               | VIC   | Melbourne      |                   | 2019-02-03        | $25,000    |
 | [Founder Institute](http://fi.co/)                                                                      | NSW   | Sydney         |                   | 2019-02-10        |            |
 | [Muru-D](https://muru-d.com/location/brisbane/)                                                         | QLD   | Brisbane       | 2019-04           |                   |            |
@@ -49,10 +51,8 @@
 | [Techstars](https://www.techstars.com/programs/adelaide-program/)                                       | SA    | Adelaide       |                   |                   |            |
 | [CSIRO ON](http://www.oninnovation.com.au/)                                                             |       |                |                   |                   |            |
 | [EnergyLab](https://energylab.org.au/)                                                                  | NSW   | Lismore        |                   |                   | $50,000    |
-| [EnergyLab](https://energylab.org.au/)                                                                  | VIC   | Melbourne      |                   |                   | $50,000    |
 | [EnergyLab](https://energylab.org.au/)                                                                  | SA    | Adelaide       |                   |                   | $50,000    |
 | [EnergyLab](https://energylab.org.au/)                                                                  | TAS   | Hobart         |                   |                   | $50,000    |
-| [EnergyLab](https://energylab.org.au/)                                                                  | QLD   | Brisbane       |                   |                   | $50,000    |
 | [EnergyLab](https://energylab.org.au/)                                                                  | ACT   | Canberra       |                   |                   | $50,000    |
 | [Runway](https://runwayhq.co/)                                                                          | VIC   | Geelong        |                   |                   |            |
 | [Unearthed](https://unearthed.solutions/accelerator/)                                                   | SA    | Perth          |                   |                   |            |
