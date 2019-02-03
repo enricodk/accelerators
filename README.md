@@ -9,11 +9,11 @@
 | [EnergyLab](https://energylab.org.au/)                                                                  | NSW   | Sydney         |                   | 2019-02-03        | $50,000    |
 | [EnergyLab](https://energylab.org.au/)                                                                  | VIC   | Melbourne      |                   | 2019-02-03        | $50,000    |
 | [EnergyLab](https://energylab.org.au/)                                                                  | QLD   | Brisbane       |                   | 2019-02-03        | $50,000    |
-| [Startupbootcamp Fintech](https://www.startupbootcamp.org/accelerator/fintech-melbourne/)               | VIC   | Melbourne      |                   | 2019-02-03        | $25,000    |
 | [RISE Accelerator](https://riseaccelerator.gateway.kpmg.com.au/)                                        | WA    | Perth          |                   | 2019-02-04        |            |            
 | [Founder Institute](http://fi.co/)                                                                      | NSW   | Sydney         |                   | 2019-02-10        |            |
 | [Runway](https://runwayhq.co/)                                                                          | VIC   | Geelong        |                   | 2019-02-17        |            |
 | [Muru-D](https://muru-d.com/location/brisbane/)                                                         | QLD   | Brisbane       | 2019-04           |                   |            |
+| [Startupbootcamp Fintech](https://www.startupbootcamp.org/accelerator/fintech-melbourne/)               | VIC   | Melbourne      | 2018-12-21        | 2019-04-02        | $25,000    |
 | [EnergyLab Pre-Acceleration](https://energylab.org.au/pre-acceleration)                                 | QLD   | Townsville     |                   | 2019-05-12        |            |
 | [EnergyLab Pre-Acceleration](https://energylab.org.au/pre-acceleration)                                 | QLD   | Brisbane       |                   | 2019-05-12        |            |
 | [EnergyLab Pre-Acceleration](https://energylab.org.au/pre-acceleration)                                 | NSW   | Sydney         |                   | 2019-05-12        |            |
