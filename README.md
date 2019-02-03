@@ -5,7 +5,7 @@
 
 | Name                                                                                                    | State | City           | Applications Open | Applications Close| Investment |
 | ---                                                                                                     | ---   | ---            | ---               | ---               | ---        |
-| [Plus Eight/Muru-D](https://pluseight.spacecubed.com/accelerator)                                       | WA    | Perth          | 2018-11           | 2019-01-28        |            |
+| [Plus Eight/Muru-D](https://pluseight.spacecubed.com/accelerator)                                       | WA    | Perth          | ~~2018-11~~       | ~~2019-01-28~~    |            |
 | [EnergyLab](https://energylab.org.au/)                                                                  | NSW   | Sydney         |                   | 2019-02-03        | $50,000    |
 | [EnergyLab](https://energylab.org.au/)                                                                  | VIC   | Melbourne      |                   | 2019-02-03        | $50,000    |
 | [EnergyLab](https://energylab.org.au/)                                                                  | QLD   | Brisbane       |                   | 2019-02-03        | $50,000    |
