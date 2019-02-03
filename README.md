@@ -6,11 +6,11 @@
 | Name                                                                                                    | State | City           | Applications Open | Applications Close| Investment |
 | ---                                                                                                     | ---   | ---            | ---               | ---               | ---        |
 | [Plus Eight/Muru-D](https://pluseight.spacecubed.com/accelerator)                                       | WA    | Perth          | 2018-11           | 2019-01-28        |            |
-| [RISE Accelerator](https://riseaccelerator.gateway.kpmg.com.au/)                                        | WA    | Perth          |                   | 2019-01-31        |            |            
 | [EnergyLab](https://energylab.org.au/)                                                                  | NSW   | Sydney         |                   | 2019-02-03        | $50,000    |
 | [EnergyLab](https://energylab.org.au/)                                                                  | VIC   | Melbourne      |                   | 2019-02-03        | $50,000    |
 | [EnergyLab](https://energylab.org.au/)                                                                  | QLD   | Brisbane       |                   | 2019-02-03        | $50,000    |
 | [Startupbootcamp Fintech](https://www.startupbootcamp.org/accelerator/fintech-melbourne/)               | VIC   | Melbourne      |                   | 2019-02-03        | $25,000    |
+| [RISE Accelerator](https://riseaccelerator.gateway.kpmg.com.au/)                                        | WA    | Perth          |                   | 2019-02-04        |            |            
 | [Founder Institute](http://fi.co/)                                                                      | NSW   | Sydney         |                   | 2019-02-10        |            |
 | [Muru-D](https://muru-d.com/location/brisbane/)                                                         | QLD   | Brisbane       | 2019-04           |                   |            |
 | [EnergyLab Pre-Acceleration](https://energylab.org.au/pre-acceleration)                                 | QLD   | Townsville     |                   | 2019-05-12        |            |
