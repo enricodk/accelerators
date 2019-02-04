@@ -6,10 +6,10 @@
 | Name                                                                                                    | State | City           | Applications Open | Applications Close| Investment |
 | ---                                                                                                     | ---   | ---            | ---               | ---               | ---        |
 | [Plus Eight/Muru-D](https://pluseight.spacecubed.com/accelerator)                                       | WA    | Perth          | ~~2018-11~~       | ~~2019-01-28~~    |            |
-| [EnergyLab](https://energylab.org.au/)                                                                  | NSW   | Sydney         |                   | 2019-02-03        | $50,000    |
-| [EnergyLab](https://energylab.org.au/)                                                                  | VIC   | Melbourne      |                   | 2019-02-03        | $50,000    |
-| [EnergyLab](https://energylab.org.au/)                                                                  | QLD   | Brisbane       |                   | 2019-02-03        | $50,000    |
-| [RISE Accelerator](https://riseaccelerator.gateway.kpmg.com.au/)                                        | WA    | Perth          |                   | 2019-02-04        |            |            
+| [EnergyLab](https://energylab.org.au/)                                                                  | NSW   | Sydney         |                   | ~~2019-02-03~~    | $50,000    |
+| [EnergyLab](https://energylab.org.au/)                                                                  | VIC   | Melbourne      |                   | ~~2019-02-03~~    | $50,000    |
+| [EnergyLab](https://energylab.org.au/)                                                                  | QLD   | Brisbane       |                   | ~~2019-02-03~~    | $50,000    |
+| [RISE Accelerator](https://riseaccelerator.gateway.kpmg.com.au/)                                        | WA    | Perth          |                   | ~~2019-02-04~~    |            |            
 | [Founder Institute](http://fi.co/)                                                                      | NSW   | Sydney         |                   | 2019-02-10        |            |
 | [Runway](https://runwayhq.co/)                                                                          | VIC   | Geelong        |                   | 2019-02-17        |            |
 | [Muru-D](https://muru-d.com/location/brisbane/)                                                         | QLD   | Brisbane       | 2019-04           |                   |            |
